@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -6,6 +8,7 @@
 
 body {
     background-color: #d5e1ef;
+    font-family: 'Outfit', sans-serif;
 }
 
 img {
@@ -42,13 +45,13 @@ img {
 
 .content h2 {
     font-size: 18px;
-    font-family: cursive;
+    font-family: 'Outfit', sans-serif;
     color: rgb(1, 1, 105);
     margin-bottom: 0.8rem;
 }
 
 .content p {
     font-size: 13px;
-    font-family: cursive;
+    font-family: 'Outfit', sans-serif;
     color: rgb(1, 1, 105);
 }
